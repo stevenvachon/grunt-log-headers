@@ -1,9 +1,9 @@
-# grunt-log-headers
+# grunt-log-headers [![NPM Version](http://badge.fury.io/js/grunt-log-headers.svg)](http://badge.fury.io/js/grunt-log-headers)
 
 > Hide the running task name header in Grunt's logger.
 
 ## Getting Started
-This plugin requires Grunt `~0.4.2`
+This plugin requires Grunt `~0.4`
 
 If you haven't used [Grunt](http://gruntjs.com/) before, be sure to check out the [Getting Started](http://gruntjs.com/getting-started) guide, as it explains how to create a [Gruntfile](http://gruntjs.com/sample-gruntfile) as well as install and use Grunt plugins. Once you're familiar with that process, you may install this plugin with this command:
 
@@ -28,7 +28,7 @@ Unlike typical Grunt plugins, this one has no task. It's actually a hack that wr
 Type: `Boolean`  
 Default value: `true`  
 
-Hide the running task header or not. This can be applied to *any* task.
+Show the running task header or not. This can be applied to *any* task.
 
 ### Usage Example
 ```js
@@ -56,6 +56,7 @@ module.exports = function(grunt) {
 ```
 
 ## Release History
+* 1.0.0 release
 * 0.1.0 initial release
 
 ---

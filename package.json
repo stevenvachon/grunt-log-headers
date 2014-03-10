@@ -1,7 +1,7 @@
 {
   "name": "grunt-log-headers",
   "description": "Hide the running task name header in Grunt's logger.",
-  "version": "0.1.0",
+  "version": "1.0.0",
   "homepage": "https://github.com/stevenvachon/grunt-log-headers",
   "author": {
     "name": "Steven Vachon",
@@ -15,14 +15,17 @@
   "bugs": {
     "url": "https://github.com/stevenvachon/grunt-log-headers/issues"
   },
-  "main": "option.gruntLogHeader.js",
   "engines": {
-    "node": ">= 0.8.0"
+    "node": ">= 0.8"
   },
   "peerDependencies": {
-    "grunt": "~0.4.2"
+    "grunt": "~0.4"
   },
+  "files": [
+    "option.gruntLogHeader.js"
+  ],
   "keywords": [
+    "grunt",
     "Gruntfile",
     "gruntplugin",
     "header",
