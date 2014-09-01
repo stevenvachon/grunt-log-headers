@@ -8,6 +8,7 @@
     "email": "contact@svachon.com",
     "url": "http://www.svachon.com/"
   },
+  "main": "option.gruntLogHeader.js",
   "repository": {
     "type": "git",
     "url": "git://github.com/stevenvachon/grunt-log-headers.git"
