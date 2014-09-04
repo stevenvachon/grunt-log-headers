@@ -1,7 +1,7 @@
 {
   "name": "grunt-log-headers",
   "description": "Hide the running task name header in Grunt's logger.",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "homepage": "https://github.com/stevenvachon/grunt-log-headers",
   "author": {
     "name": "Steven Vachon",
@@ -16,6 +16,12 @@
   "bugs": {
     "url": "https://github.com/stevenvachon/grunt-log-headers/issues"
   },
+  "licenses": [
+    {
+      "type": "MIT",
+      "url": "http://opensource.org/licenses/mit-license.php"
+    }
+  ],
   "engines": {
     "node": ">= 0.8"
   },

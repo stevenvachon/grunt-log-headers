@@ -56,6 +56,7 @@ module.exports = function(grunt) {
 ```
 
 ## Release History
+* 1.0.1 package.json fixes
 * 1.0.0 release
 * 0.1.0 initial release
 
